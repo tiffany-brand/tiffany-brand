@@ -1,4 +1,13 @@
-### Hi there 👋
+### Welcome! 👋
+
+I am Tiffany Brand, Full Stack Web Developer. Welcome to my GitHub repository!
+
+📫 You can find me at...
+
+- [LinkedIn](https://www.linkedin.com/in/tiffanybrand/)
+- [My Portfolio](https://tiffany-brand.github.io/)
+- [Email](mailto:tiffanylbrand@outlook.com)
+
 
 <!--
 **tiffany-brand/tiffany-brand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
