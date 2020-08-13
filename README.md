@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-I am Tiffany Brand, Full Stack Web Developer. Welcome to my GitHub repository!
+Hello! I am Tiffany Brand, Full Stack Web Developer. Welcome to my GitHub repository!
 
 📫 You can find me at...
 
