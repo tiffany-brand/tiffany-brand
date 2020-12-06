@@ -5,7 +5,7 @@ Hello! I'm Tiffany Brand, Full Stack Web Developer with a background in educatio
 📫 You can find me at...
 
 - [LinkedIn](https://www.linkedin.com/in/tiffanybrand/)
-- [My Portfolio](https://tiffany-brand.github.io/)
+- [My Portfolio](https://tiffanybrand.com/)
 - [Email](mailto:tiffanylbrand@outlook.com)
 
 
